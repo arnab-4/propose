@@ -6,6 +6,8 @@ A beautiful web template for couples who want to express their love and emotions
 
 Live Demo: [https://propose-web.netlify.app/](https://propose-web.netlify.app/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/09c7065a-1258-4a30-920f-b57914b0a48e/deploy-status)](https://app.netlify.com/sites/propose-web/deploys)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
