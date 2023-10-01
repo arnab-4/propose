@@ -2,7 +2,7 @@
 
 A beautiful web template for couples who want to express their love and emotions to their special person.
 
-![Propose ](https://your-image-url-here.com)
+![Propose ](https://raw.githubusercontent.com/arnab-4/propose/main/demo.png)
 
 Live Demo: []()
 
