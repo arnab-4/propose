@@ -2,9 +2,11 @@
 
 A beautiful web template for couples who want to express their love and emotions to their special person.
 
-![Propose ](https://your-image-url-here.com)
+![Propose ](https://raw.githubusercontent.com/arnab-4/propose/main/demo.png)
 
-Live Demo: []()
+Live Demo: [https://propose-web.netlify.app/](https://propose-web.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/09c7065a-1258-4a30-920f-b57914b0a48e/deploy-status)](https://app.netlify.com/sites/propose-web/deploys)
 
 ## Table of Contents
 
@@ -27,7 +29,7 @@ Are you ready to make your proposal special and memorable? "Propose Your Valenti
 
 ## Usage
 
-1. Visit the live demo site: [/](/)
+1. Visit the live demo site: [https://propose-web.netlify.app/](https://propose-web.netlify.app/)
 2. Enter your valentine's name in the input field.
 3. Click the "Propose Now" button.
 4. A popup will appear with a unique proposal link. Copy the link and share it with your valentine.
